@@ -1,4 +1,4 @@
-# deep_reinforcement_learning_project3
+# deep_reinforcement_learning_actor_critic_ddpg
 ## Overview
 For this project, you will work with the Tennis environment.
 
